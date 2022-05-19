@@ -1,0 +1,21 @@
+var hello = alert("Assalomu Alaykum");
+var secondry = alert("Xush Kelibsiz");
+var userName = prompt("Ismingizni kriting !", "Odilxon");
+var userLastName = prompt("Familiyangizni kiriting !", "Esonaliyev");
+var age = prompt("Yoshingizni kiriting", "23");
+var study = prompt("Qayerda O`qiysiz ?", "Qirg`iziston Davlat Transport Universitetida");
+var isMarried = prompt("Uylanganmisiz ?", "Yo`q");
+var doYouKnowProgramming = ("Dasturlashni bilasizmi", "Hozirda O`rganmoqdaman");
+var leanguage = prompt("Qaysi tillarni bilasiz ?", "O`zbek");
+var whatIsYourHobby = prompt("nimalarga qiziqasiz ?", "Futbolga");
+
+console.log("hello");
+console.log("secondry");
+console.log("userName");
+console.log("userLastName");
+console.log("age");
+console.log("study");
+console.log("isMArried");
+console.log("doYouKnowProgramming");
+console.log("leanguage");
+console.log("whatIsYourHobby");
